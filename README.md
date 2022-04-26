@@ -1,3 +1,5 @@
+[![.NET](https://github.com/aimenux/CustomFeatureFilterDemo/actions/workflows/ci.yml/badge.svg)](https://github.com/aimenux/CustomFeatureFilterDemo/actions/workflows/ci.yml)
+
 # CustomFeatureFilterDemo
 ```
 Using custom feature filters
